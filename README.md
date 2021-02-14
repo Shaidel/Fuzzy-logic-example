@@ -6,3 +6,13 @@ Wejścia:
 
 Wyjście:
 - czas podlewania 0-60 minut
+
+
+A simple fuzzy logic system with two inputs and one output
+
+Inputs:
+- temperature 0-50 degrees Celsius
+- humidity 0-100%
+
+Output:
+- watering time 0-60 minutes
